@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Chili clonedisk
+GenericName=Chili CloneDisk Util
+Comment=Utilitario para clonar disco
+Exec=pkexec /usr/bin/chili-clonedisk %f
+Terminal=true
+MimeType=text/plain;
+Icon=
+Categories=Utility;Accessories;
+StartupNotify=true
+Actions=Window;Document;
