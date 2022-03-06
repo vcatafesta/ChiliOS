@@ -1,0 +1,2 @@
+# installer
+Instalador Chili OS
